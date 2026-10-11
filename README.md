@@ -15,6 +15,6 @@ My website brings together my projects, essays, and short notes. Outside enginee
 - [ProbFun / 邮趣数学](https://umathhub.com/)
 - [iMathBook](https://imathbook.com/)
 - [LeDA Agent / LeDA 智能体](https://win.bupt.edu.cn/program.do?id=9909)
-- [PixelDone / 像素清单](https://github.com/Siyuan-Xue/PixelDone)
+- [Pixel Done](https://github.com/Siyuan-Xue/PixelDone)
 
 [Website source code](https://github.com/Siyuan-Xue/siyuanxue.com)
